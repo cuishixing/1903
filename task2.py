@@ -1,0 +1,2 @@
+print("bad")
+print("great")
